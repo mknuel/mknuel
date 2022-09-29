@@ -1,3 +1,9 @@
+<style>
+img{
+  width: 10px;
+  
+  }
+</style>
 # Hey Guys!👋🏾, I'm Emmanuel Onyekponwane;
 ## Alias: mk
 
