@@ -26,10 +26,10 @@ I create Immmersive web experiences
 
 ## Let's connect!!
 
-[<img src="./email.svg" width="10px">
+[<img src="./email.svg" width="50px">
 ](mailto:emmanueldhaxoft@gmail.com)
 
-[<img src="./twitter.svg" width="10px">](https://twitter.com/mk_nuel)
+[<img src="./twitter.svg" width="50px">](https://twitter.com/mk_nuel)
 
 ## Technologies I use
 
