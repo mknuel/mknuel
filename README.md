@@ -30,5 +30,5 @@ I create Immmersive web experiences
 ](mailto:emmanueldhaxoft@gmail.com)  [<img alt="twitter" src="./twitter.svg" width="50px">](https://twitter.com/mk_nuel)
 
 ## Technologies I use
-<img src="./html.png" alt="html" width="40px"> <img src="./css-3.png" alt="css" width="40px"> <img src="./js.svg" alt="javascript" width="40px"> <img src="./ts.svg" alt="typescript" width="40px"> <img src="./react.svg" alt="react" width="40px"> <img src="./sass.svg" alt="sass/scss" width="40px"> <img src="./redux.svg" alt="redux" width="40px"> <img src="./node.svg" alt="node js" width="40px">
+<img src="./html.png" alt="html" width="40px"> <img src="./css-3.png" alt="css" width="40px">&nbsp; <img src="./js.svg" alt="javascript" width="40px">&nbsp; <img src="./ts.svg" alt="typescript" width="40px"> <img src="./react.svg" alt="react" width="40px"> <img src="./sass.svg" alt="sass/scss" width="40px"> <img src="./redux.svg" alt="redux" width="40px"> <img src="./node.svg" alt="node js" width="40px">
 ### Thank you!
