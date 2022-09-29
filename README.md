@@ -26,20 +26,9 @@ I create Immmersive web experiences
 
 ## Let's connect!!
 
-[<img src="./email.svg" width="50px">
-](mailto:emmanueldhaxoft@gmail.com)
-
-[<img src="./twitter.svg" width="50px">](https://twitter.com/mk_nuel)
+[<img src="./email.svg" width="50px" alt="email">
+](mailto:emmanueldhaxoft@gmail.com)  [<img alt="twitter" src="./twitter.svg" width="50px">](https://twitter.com/mk_nuel)
 
 ## Technologies I use
-
-![Html](https://drive.google.com/file/d/1TJPv-3xxLavQnpKQFWz4hIcL5rwaLrQz/view?usp=sharing?raw=true "Html")
-![css](https://drive.google.com/file/d/1j7sTVF7mGr6XluG7ZD22yLuL-w3RUc-4/view?usp=sharing?raw=true "css")
-![javascript](https://drive.google.com/file/d/1LlIav0Ky0ucPLZUgmbtfGgmSAwayeLIg/view?usp=sharing?raw=true "javascript")
-![typescript](https://drive.google.com/file/d/1wWgs2O46RF5CjKI_6-RVS_rCerZbhuxb/view?usp=sharing?raw=true "typescript")
-![react](https://drive.google.com/file/d/1LlIav0Ky0ucPLZUgmbtfGgmSAwayeLIg/view?usp=sharing?raw=true "react")
-![sass](https://drive.google.com/file/d/1A3aaT9KAROvobGPQmHvSnqySj_DlbJrG/view?usp=sharing?raw=true "sass")
-![redux](https://drive.google.com/file/d/1vJQ454UxFLyLu13cLWOXkN-BWlVHxp-_/view?usp=sharing?raw=true "redux")
-![node js](https://drive.google.com/file/d/1jt9HHGdR_Qw80XMZnhrxh7iJDc3E_Xhz/view?usp=sharing?raw=true "node js")
-
+<img src="./html.png" alt="html" width="40px"> <img src="./css-3.png" alt="css" width="40px"> <img src="./js.svg" alt="javascript" width="40px"> <img src="./ts.svg" alt="typescript" width="40px"> <img src="./react.svg" alt="react" width="40px"> <img src="./sass.svg" alt="sass/scss" width="40px"> <img src="./redux.svg" alt="redux" width="40px"> <img src="./node.svg" alt="node js" width="40px">
 ### Thank you!
