@@ -29,7 +29,7 @@ I create Immmersive web experiences
 [![email](https://drive.google.com/file/d/19CChe1j2Rh15t3aFi4_N9T5pCFNd2TvX/view?usp=sharing?raw=true "email")
 ](mailto:emmanueldhaxoft@gmail.com)
 
-[![twitter](./twitter.svg?raw=true "twitter" |width=100)](https://twitter.com/mk_nuel)
+[![twitter](./twitter.svg |width=100)](https://twitter.com/mk_nuel)
 
 ## Technologies I use
 
