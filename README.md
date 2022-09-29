@@ -1,4 +1,4 @@
-# Hey Guys!👋🏾, I'm Emmanuel Onyekponwane;
+# Hey Guys!👋🏾, I'm Emmanuel Onyekponwane
 ## Alias: mk 
 
 I'm a creator 💻
