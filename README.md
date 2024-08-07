@@ -9,9 +9,8 @@ I create Immmersive web experiences
 
 ## ⁉️ Want to know me?
 
-- 👨‍💻 I provide solutions to problems
 - 🪛 Fixer| 🌍Creator | 👷🏾‍♀️Builder
-- 🔭 I'm currently building the future at [Lucidjungles](https://www.beta.lucidjungles.io)
+- 🔭 I'm currently building the future at [Lucidjungles](https://www.alpha.lucidjungles.io)
 - 🔥 I create immersive web experiences with stunning animations
 - 💬 Ask me about web development
 - 😄 Pronouns: He/Him
